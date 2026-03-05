@@ -1,1 +1,8 @@
 Attention/nul
+Encoders/data/MNIST/raw/train-labels-idx1-ubyte.gz
+Encoders/data/MNIST/raw/t10k-images-idx3-ubyte
+Encoders/data/MNIST/raw/t10k-labels-idx1-ubyte
+Encoders/data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+Encoders/data/MNIST/raw/t10k-images-idx3-ubyte.gz
+Encoders/data/MNIST/raw/train-images-idx3-ubyte
+/Encoders/data
