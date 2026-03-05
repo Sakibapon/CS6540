@@ -7,3 +7,4 @@ Encoders/data/MNIST/raw/t10k-images-idx3-ubyte.gz
 Encoders/data/MNIST/raw/train-images-idx3-ubyte
 /Encoders/data
 Encoders/.ipynb_checkpoints/encoders_ae_vae-checkpoint.ipynb
+claude.md
